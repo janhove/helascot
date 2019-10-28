@@ -1,0 +1,104 @@
+citEntry(entry = "InCollection",
+  title        = "Testing interdependence in {P}ortuguese heritage speakers in {S}witzerland: The {HELASCOT} project",
+  author       = personList(
+  									as.person("Amelia Lambelet"),
+                   	as.person("Raphael Berthele"),
+                   	as.person("Magalie Desgrippes"),
+                   	as.person("Carlos Pestana"),
+                   	as.person("Jan Vanhove")
+                  ),
+  booktitle    = "Heritage language and school language literacy development in migrant children: Interdependence or independence?",
+  editor			 = personList(
+  									as.person("Raphael Berthele"),
+  									as.person("Amelia Lambelet")
+  								),
+	publisher		 = "Multilingual Matters",
+  year         = "2018",
+  pages        = "26-33",
+
+  textVersion  =
+  paste("Lambelet, Amelia, Raphael Berthele, Magalie Desgrippes, Carlos Pestana and Jan Vanhove. 2018.",
+        "Testing interdependence in Portuguese heritage speakers in Switzerland: The HELASCOT project.",
+        "In Raphael Berthele and Amelia Lambelet (Eds.), Heritage language and school language literacy development in migrant children: Interdependence or independence?",
+        "26-33.",
+        "Bristol, UK: Multilingual Matters.",
+        "URL http://doi.org/10.21832/BERTHE9047"),
+
+  header = "To cite the 'background' dataset, please use:"
+)
+
+citEntry(entry = "InCollection",
+  title        = "Reading comprehension development in {P}ortuguese heritage speakers in {S}witzerland ({HELASCOT} project)",
+  author       = personList(
+                   	as.person("Carlos Pestana"),
+  									as.person("Amelia Lambelet"),
+                   	as.person("Jan Vanhove")
+                  ),
+  booktitle    = "Heritage language and school language literacy development in migrant children: Interdependence or independence?",
+  editor			 = personList(
+  									as.person("Raphael Berthele"),
+  									as.person("Amelia Lambelet")
+  								),
+	publisher		 = "Multilingual Matters",
+  year         = "2018",
+  pages        = "58-82",
+
+  textVersion  =
+  paste("Pestana, Carlos, Amelia Lambelet and Jan Vanhove. 2018.",
+        "Reading comprehension development in Portuguese heritage speakers in Switzerland (HELASCOT project).",
+        "In Raphael Berthele and Amelia Lambelet (Eds.), Heritage language and school language literacy development in migrant children: Interdependence or independence?",
+        "58-82.",
+        "Bristol, UK: Multilingual Matters.",
+        "URL http://doi.org/10.21832/BERTHE9047"),
+
+ header = "To cite the 'skills' dataset, please use:"
+)
+
+citEntry(entry = "InCollection",
+  title        = "The development of argumentatitive and narrative writing skills in {P}ortuguese heritage speakers in {S}witzerland ({HELASCOT} project)",
+  author       = personList(
+                   	as.person("Magalie Desgrippes"),
+  									as.person("Amelia Lambelet"),
+                   	as.person("Jan Vanhove")
+                  ),
+  booktitle    = "Heritage language and school language literacy development in migrant children: Interdependence or independence?",
+  editor			 = personList(
+  									as.person("Raphael Berthele"),
+  									as.person("Amelia Lambelet")
+  								),
+	publisher		 = "Multilingual Matters",
+  year         = "2018",
+  pages        = "83-96",
+
+  textVersion  =
+  paste("Desgrippes, Magalie, Amelia Lambelet and Jan Vanhove. 2018.",
+        "The development of argumentatitive and narrative writing skills in Portuguese heritage speakers in Switzerland (HELASCOT project).",
+        "In Raphael Berthele and Amelia Lambelet (Eds.), Heritage language and school language literacy development in migrant children: Interdependence or independence?",
+        "83-96.",
+        "Bristol, UK: Multilingual Matters.",
+        "URL http://doi.org/10.21832/BERTHE9047")
+)
+
+citEntry(entry = "Article",
+  title        = "Predicting perceptions of the lexical richness of short {F}rench, {G}erman, and {P}ortuguese texts",
+  author       = personList(
+                   	as.person("Jan Vanhove"),
+                   	as.person("Audrey Bonvin"),
+                   	as.person("Amelia Lambelet"),
+                   	as.person("Raphael Berthele")
+                  ),
+  journal    	 = "Journal of Writing Research",
+  volume			 = "10",
+  issue				 = "3",
+  year         = "2019",
+  pages        = "499-525",
+  doi       = "10.17239/jowr-2019.10.03.04",
+
+  textVersion  =
+  paste("Vanhove, Jan, Audrey Bonvin, Amelia Lambelet and Raphael Berthele. 2019.",
+        "Predicting perceptions of the lexical richness of short French, German, and Portuguese texts.",
+        "Journal of Writing Research 10(3). 58-82.",
+        "URL http://doi.org/10.17239/jowr-2019.10.03.04"),
+
+  header = "To cite the 'ratings' and 'text_metrics' datasets, please use:"
+)

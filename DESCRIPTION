@@ -1,0 +1,28 @@
+Package: helascot
+Type: Package
+Title: Datasets for the Heritage Language and School Language (HELASCOT) Project
+Version: 1.0.0
+Authors@R: c(
+    person("Jan", "Vanhove", email="janvanhove@gmail.com", role = c("aut", "cre")),
+    person("Raphael", "Berthele", role = c("aut")),
+    person("Amelia", "Lambelet", role = c("aut"))
+    )
+Maintainer: Jan Vanhove <janvanhove@gmail.com>
+Date: 2019-10-16
+Description: Datasets for the Heritage Language and School Language (HELASCOT) project.
+    The datasets included contain the pupils' performance on reading and writing
+    tasks in their school language and their heritage language at three points in time
+    ('skills'), questionnaire-based background information about the pupils
+    ('background'), text-based metrics about the texts they wrote ('text_metrics'),
+    and ratings of lexical richness given to these texts ('ratings').
+    Detailed information about this project is available from
+    https://osf.io/6bywg/ (for text-based metrics and ratings of lexical richness)
+    and from the edited volume 'Heritage and school language literacy development
+    in migrant children: Interdependence or independence?' (eds. Raphael Berthele
+    and Amelia Lambelet, Multilingual Matters).
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+URL: https://github.com/janhove/helascot
+RoxygenNote: 6.1.1
+License: file LICENSE
